@@ -18,3 +18,4 @@ Some of the main course highlights:
 - Include transactions in core blocks of the chain.
 
 Ultimately, knowledge of the Blockchain will set you up for success in the future, as an engineer in a blockchain-dominated world.
+k
